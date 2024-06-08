@@ -426,6 +426,10 @@ p {
   left: 50%;
   transform: translate(-50%); }
 
+.list {
+  display: flex;
+  align-items: center; }
+
 /*
  * MOBILE < 768px ----------------------------------------------
  * fixture--------------------sm
